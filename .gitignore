@@ -5,3 +5,5 @@ venv/
 images/
 *.xlsx
 !examples/*.xlsx
+.idea/
+.DS_Store
